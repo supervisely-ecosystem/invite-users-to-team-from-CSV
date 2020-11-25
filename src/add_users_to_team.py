@@ -47,7 +47,7 @@ def add_users_to_team_from_csv(api: sly.Api, task_id, context, state, app_logger
                 continue
 
             if login in adding_to_team_users:
-                app_logger.warn('Duplicate login found in csv file: {}'.format(login)) #@TODO only first login will survive?
+                app_logger.warn('Duplicate login found in csv file: {}'.format(login))
                 continue
 
 
