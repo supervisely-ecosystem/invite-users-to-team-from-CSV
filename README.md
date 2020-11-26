@@ -63,20 +63,9 @@ max, admin
 
 **Note**: To open log go to `Current Team`->`PLugins & Apps` page. 
 
-
-## How to use
-
-1. Check project you want to convert to yolo5 format.
-
-2. Click three point on project and choise "Download as" option.
-
-3. In popup menu choise "Convert Supervisely into YOLO v5 format".
-
-<img src="https://i.imgur.com/ZTYhihF.png"/>
-
-4. Open "files" menu. Here in directory "yolov5_format" you can find tar archive with project in YOLOv5 format.
-
-<img src="https://i.imgur.com/pu9snon.png"/>
+<img src="https://i.imgur.com/FNu7fZh.png"/>
 
 
+
+**Note**: In app log you will see invited users, or a warning message if user not exists or input role not exist or user with login already in team. 
 
