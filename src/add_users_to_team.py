@@ -39,15 +39,15 @@ def add_users_to_team_from_csv(api: sly.Api, task_id, context, state, app_logger
             role = row[ROLE_COL_NAME].strip()
 
             if login not in existing_logins:
-                app_logger.warn("Login {} not exist".format(login))
+                app_logger.warn("Login {!r} doesn not exist".format(login))
                 continue
 
             if role not in role_to_id.keys():
-                app_logger.warn("role {} not exist".format(role))
+                app_logger.warn("Role {!r} doesn not exist".format(role))
                 continue
 
             if login in adding_to_team_users:
-                app_logger.warn('Duplicate login found in csv file: {}'.format(login))
+                app_logger.warn('Duplicate login found in csv file: {!r}'.format(login))
                 continue
 
 
@@ -58,7 +58,7 @@ def add_users_to_team_from_csv(api: sly.Api, task_id, context, state, app_logger
 
     for login, role_id in adding_to_team_users.items():
         if api.user.get_member_info_by_login(TEAM_ID, login):
-            app_logger.warn("User with login {} already in team".format(login))
+            app_logger.warn("User with login {!r} is already in team".format(login))
             continue
         api.user.add_to_team_by_login(login, TEAM_ID, role_id)
         app_logger.info("User {!r} is added".format(login))
