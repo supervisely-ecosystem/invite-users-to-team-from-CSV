@@ -56,15 +56,10 @@ Drag and drop `CSV` file to Team Files
 
 **Step 2**: Go to `Current Team`->`Files` page, right-click on your `CSV` file  and choose `Run App`->`Invite users to team from CSV`. 
 
-<img src="https://i.imgur.com/Y1TgrkG.png"/>
+<img src="https://i.imgur.com/B1z7Ltf.png"/>
 
 
-
-**Note**: To open log go to `Current Team`->`PLugins & Apps` page. 
+**Note**: To open log go to `Current Team`->`PLugins & Apps` page. In app log you will see invited users, or a warning message if user/role doesn't exist or user is already in team.
 
 <img src="https://i.imgur.com/FNu7fZh.png"/>
-
-
-
-**Note**: In app log you will see invited users, or a warning message if user not exists or input role not exist or user with login already in team. 
 
