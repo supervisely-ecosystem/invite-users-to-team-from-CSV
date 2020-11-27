@@ -44,20 +44,17 @@ cxnt,developer
 max,annotator
 ```
 
-4. Drag and drop `CSV` file to Team Files
+Drag and drop `CSV` file to Team Files
 
 <img src="https://i.imgur.com/SE1s0OF.png"/>
 
 
 
 ## How To Run 
-**Step 1**: Add app to your team from Ecosystem if it is not there. Application will be added to `Current Team`->`PLugins & Apps` page. 
 
-<img src="https://i.imgur.com/8olwkGI.png"/>
+**Step 1**: Add app to your team from Ecosystem if it is not there.
 
-
-
-**Step 2**: Go to `Current Team`->`Files` page, right-click on your `.csv file` and choose `Run App`->`Invite users to team from CSV`. 
+**Step 2**: Go to `Current Team`->`Files` page, right-click on your `CSV` file  and choose `Run App`->`Invite users to team from CSV`. 
 
 <img src="https://i.imgur.com/Y1TgrkG.png"/>
 
