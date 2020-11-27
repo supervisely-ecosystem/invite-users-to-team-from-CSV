@@ -1,14 +1,14 @@
 <div align="center" markdown>
 
-# Invite users to team from CSV
+<img src="https://i.imgur.com/3Ty8mqK.png"/>
 
+# Invite users to team from CSV
 
 <p align="center">
 
   <a href="#Overview">Overview</a> •
   <a href="#Preparation">Preparation</a> •
-  <a href="#How-To-Run">How To Run</a> •
-  <a href="#How-To-Use">How To Use</a>
+  <a href="#How-To-Run">How To Run</a>
 </p>
 
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack)
@@ -21,9 +21,7 @@
 
 ## Overview
 
-Application invite users with given roles to current team from CSV format.
-
-
+This app allows to invite multiple users to team in a few clicks. Is saves time especially if you have large labeling team or annotators, managers and developes that are distributed accross regions and countries. User have to define CSV files with logins and roles in team and then these CSV files are used to bulk-invite members. For example,
 
 ## Preparation
 
