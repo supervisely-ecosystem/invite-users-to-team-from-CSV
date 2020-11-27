@@ -28,24 +28,20 @@ For example, you can create several files: `manages_new_york.csv`, `developers_m
 ## Preparation
 
 List of default roles (detailed explanation of permmissions for each role can be found in [our docs](https://docs.supervise.ly/collaboration/members)):
-- admin
-- developer
-- manager
-- annotator 
-- viewer
-- reviewer
+- `admin`
+- `developer`
+- `manager`
+- `annotator` 
+- `viewer`
+- `reviewer`
 
-1. Create a `.csv` file with `logins` and `roles`
-2. `.csv` file must contain only 2 columns: `login` and `role`, all elements must be separated with `,`
-3. Here's the example of how your `.csv` file should look like:
+Create a `.csv` file with two columns: `logins` and `roles`, all elements must be separated with `,`. For example:
 
 ```
-login, role
-user1, annotator 
-user2, reviewer
-user3, annotator
-user4, jobmanager
-max, admin
+login,role
+alex,manager 
+cxnt,developer
+max,annotator
 ```
 
 4. Drag and drop this file to Team Files
