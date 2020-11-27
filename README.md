@@ -44,11 +44,9 @@ cxnt,developer
 max,annotator
 ```
 
-4. Drag and drop this file to Team Files
+4. Drag and drop `CSV` file to Team Files
 
-
-
-<img src="https://i.imgur.com/TEpBMXf.gif"/>
+<img src="https://i.imgur.com/SE1s0OF.png"/>
 
 
 
