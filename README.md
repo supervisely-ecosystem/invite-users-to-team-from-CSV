@@ -23,7 +23,7 @@
 
 This app allows to invite multiple users to team in a few clicks. Is saves time especially if you have large labeling team or annotators, managers and developes that are distributed accross regions and countries. User have to define CSV files with logins and roles in team and then these CSV files are used to bulk-invite members. 
 
-For example, you can create several files: `manages_new_york.csv`, `developers_moscow.csv`, `labelers_san_francisco.csv`, `labelers_new_delhi.csv` and so on. Then you can invite different users groups to different teams. We recommend for every research or labeling project create separate team in Supervisely. It allows to keep data/experiments/annotation activity in a consistent way.
+For example, you can create several files: `manages_new_york.csv`, `developers_moscow.csv`, `labelers_san_francisco.csv`, `labelers_new_delhi.csv` and so on. Then you can invite different users groups to different teams. We recommend for every research or labeling project create separate team in Supervisely. It allows to keep data, experiments and annotation activity in a consistent way.
 
 ## Preparation
 
