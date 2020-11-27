@@ -25,6 +25,14 @@ This app allows to invite multiple users to team in a few clicks. Is saves time 
 
 ## Preparation
 
+List of default roles (detailed explanation of permmissions for each role can be found in [our docs](https://docs.supervise.ly/collaboration/members)):
+- admin
+- developer
+- manager
+- annotator 
+- viewer
+- reviewer
+
 1. Create a `.csv` file with `logins` and `roles`
 2. `.csv` file must contain only 2 columns: `login` and `role`, all elements must be separated with `,`
 3. Here's the example of how your `.csv` file should look like:
