@@ -59,7 +59,12 @@ Drag and drop `CSV` file to Team Files
 <img src="https://i.imgur.com/B1z7Ltf.png"/>
 
 
-**Note**: To open log go to `Current Team`->`PLugins & Apps` page. In app log you will see invited users, or a warning message if user/role doesn't exist or user is already in team.
+**Step 3**: To see logs go to `Current Team`->`PLugins & Apps` page -> `Application sessions` -> `LOGS` button.  
+
+<img src="https://i.imgur.com/cSaKmoI.png"/>
+
+
+App log shows invited users or warning messages if user/role doesn't exist or user is already in team.
 
 <img src="https://i.imgur.com/FNu7fZh.png"/>
 
