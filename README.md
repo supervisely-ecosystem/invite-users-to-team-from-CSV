@@ -66,5 +66,5 @@ Drag and drop `CSV` file to Team Files
 
 App log shows invited users or warning messages if user/role doesn't exist or user is already in team.
 
-<img src="https://i.imgur.com/FNu7fZh.png"/>
+<img src="https://i.imgur.com/htJqs6L.png"/>
 
