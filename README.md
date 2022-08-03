@@ -1,6 +1,6 @@
 <div align="center" markdown>
 
-<img src="https://i.imgur.com/3Ty8mqK.png"/>
+<img src="https://user-images.githubusercontent.com/48245050/182622772-983320cf-dc9d-40c6-8758-28b8bf6b85ee.png"/>
 
 # Invite users to team from CSV
 
