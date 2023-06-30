@@ -46,7 +46,7 @@ max,annotator
 
 Drag and drop `CSV` file to Team Files
 
-<img src="https://i.imgur.com/SE1s0OF.png"/>
+<img src="media/p1.png"/>
 
 
 
@@ -56,15 +56,15 @@ Drag and drop `CSV` file to Team Files
 
 **Step 2**: Go to `Current Team`->`Files` page, right-click on your `CSV` file  and choose `Run App`->`Invite users to team from CSV`. 
 
-<img src="https://i.imgur.com/B1z7Ltf.png"/>
+<img src="media/htr2.png"/>
 
 
 **Step 3**: To see logs go to `Current Team`->`PLugins & Apps` page -> `Application sessions` -> `LOGS` button.  
 
-<img src="https://i.imgur.com/cSaKmoI.png"/>
+<img src="media/htr3.png"/>
 
 
 App log shows invited users or warning messages if user/role doesn't exist or user is already in team.
 
-<img src="https://i.imgur.com/Mg01tRT.png"/>
+<img src="media/l.png"/>
 
