@@ -5,7 +5,7 @@
         "collaboration"
     ],
     "description": "Invite users to team",
-    "docker_image": "supervisely/collaboration:0.0.1",
+    "docker_image": "supervisely/collaboration:0.0.5",
     "main_script": "src/add_users_to_team.py",
     "task_location": "application_sessions",
     "icon": "https://github.com/supervisely-ecosystem/invite-users-to-team-from-CSV/assets/48245050/bb22d026-2cef-45bc-ba07-fd4c43a35c17",
