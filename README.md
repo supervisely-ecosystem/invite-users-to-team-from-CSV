@@ -11,11 +11,11 @@
   <a href="#How-To-Run">How To Run</a>
 </p>
 
-[![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](https://ecosystem.supervise.ly/apps/invite-users-to-team-from-csv)
-[![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack)
+[![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](https://ecosystem.supervisely.com/apps/invite-users-to-team-from-csv)
+[![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervisely.com/slack)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/invite-users-to-team-from-csv)
-[![views](https://app.supervise.ly/img/badges/views/supervisely-ecosystem/invite-users-to-team-from-csv.png)](https://supervise.ly)
-[![runs](https://app.supervise.ly/img/badges/runs/supervisely-ecosystem/invite-users-to-team-from-csv.png)](https://supervise.ly)
+[![views](https://app.supervisely.com/img/badges/views/supervisely-ecosystem/invite-users-to-team-from-csv.png)](https://supervisely.com)
+[![runs](https://app.supervisely.com/img/badges/runs/supervisely-ecosystem/invite-users-to-team-from-csv.png)](https://supervisely.com)
 
 </div>
 
@@ -27,7 +27,7 @@ For example, you can create several files: `manages_new_york.csv`, `developers_m
 
 ## Preparation
 
-List of default roles (detailed explanation of permmissions for each role can be found in [our docs](https://docs.supervise.ly/collaboration/members)):
+List of default roles (detailed explanation of permmissions for each role can be found in [our docs](https://docs.supervisely.com/collaboration/members)):
 - `admin`
 - `developer`
 - `manager`
@@ -52,7 +52,7 @@ Drag and drop `CSV` file to Team Files
 
 ## How To Run 
 
-**Step 1**: Add app to your team from [Ecosystem](https://ecosystem.supervise.ly/apps/invite-users-to-team-from-CSV) if it is not there.
+**Step 1**: Add app to your team from [Ecosystem](https://ecosystem.supervisely.com/apps/invite-users-to-team-from-CSV) if it is not there.
 
 **Step 2**: Go to `Current Team`->`Files` page, right-click on your `CSV` file  and choose `Run App`->`Invite users to team from CSV`. 
 
