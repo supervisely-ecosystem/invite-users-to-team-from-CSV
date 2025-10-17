@@ -11,7 +11,7 @@
   <a href="#How-To-Run">How To Run</a>
 </p>
 
-[![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](../../../../supervisely-ecosystem/invite-users-to-team-from-csv)
+[![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](https://ecosystem.supervisely.com/apps/invite-users-to-team-from-csv)
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervisely.com/slack)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/invite-users-to-team-from-csv)
 [![views](https://app.supervisely.com/img/badges/views/supervisely-ecosystem/invite-users-to-team-from-csv.png)](https://supervisely.com)
@@ -52,7 +52,7 @@ Drag and drop `CSV` file to Team Files
 
 ## How To Run 
 
-**Step 1**: Add app to your team from [Ecosystem](../../../../supervisely-ecosystem/invite-users-to-team-from-CSV) if it is not there.
+**Step 1**: Add app to your team from [Ecosystem](https://ecosystem.supervisely.com/apps/invite-users-to-team-from-CSV) if it is not there.
 
 **Step 2**: Go to `Current Team`->`Files` page, right-click on your `CSV` file  and choose `Run App`->`Invite users to team from CSV`. 
 
