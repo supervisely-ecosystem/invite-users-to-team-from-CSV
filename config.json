@@ -1,6 +1,7 @@
 {
     "name": "Invite users to team from CSV",
     "type": "app",
+    "instance_version": "6.15.60",
     "categories": [
         "collaboration"
     ],
