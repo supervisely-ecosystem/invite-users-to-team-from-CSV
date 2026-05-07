@@ -1,7 +1,7 @@
 import os
 import csv
 
-import supervisely_lib as sly
+import supervisely as sly
 
 my_app = sly.AppService()
 
